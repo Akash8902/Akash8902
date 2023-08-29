@@ -7,9 +7,11 @@
 
 - 🌱 I’m currently learning **React**
 
+- 💬 Ask me about **Java, JavaScript, NodeJS, Express, MongoDB, MySQL, Python**
+
 - 📫 How to reach me **akashveshala007@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nxTubranu1eJXGM1B9Z3V9zOHYR0ABuJ/view?usp=drive_link](https://drive.google.com/file/d/1nxTubranu1eJXGM1B9Z3V9zOHYR0ABuJ/view?usp=drive_link)
+- 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/1nxTubranu1eJXGM1B9Z3V9zOHYR0ABuJ/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
