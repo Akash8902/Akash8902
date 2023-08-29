@@ -5,8 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akash8902&label=Profile%20views&color=0e75b6&style=flat" alt="akash8902" /> </p>
 
-- 🌱 I’m currently learning **React**
-
 - 💬 Ask me about **Java, JavaScript, NodeJS, Express, MongoDB, MySQL, Python**
 
 - 📫 How to reach me **akashveshala007@gmail.com**
