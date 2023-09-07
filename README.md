@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **akashveshala007@gmail.com**
 
-- 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/1ZaZdwTx8QRh0giYdzahCnuSUg4BjWaUq/view?usp=sharing/target="_blank")
+- 📄 Know about my experiences [Resumé](https://drive.google.com/file/d/1B10azwdEP3va0SV9Ywn9bkTP9KFK1Ml0/view?usp=sharing/target="_blank")
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
